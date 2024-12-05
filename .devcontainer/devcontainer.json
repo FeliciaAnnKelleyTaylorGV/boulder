@@ -1,0 +1,5 @@
+{
+  "CAA <flags> <tag> ⁸/⅙⁶<value>": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}
